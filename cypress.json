@@ -3,5 +3,6 @@
   "defaultCommandTimeout": 35000,
   "requestTimeout": 10000,
   "experimentalSessionSupport": true,
-  "chromeWebSecurity": false
+  "chromeWebSecurity": false,
+  "experimentalStudio": true
 }
